@@ -16,6 +16,17 @@ DerivedData/
 *.perspectivev3
 !default.perspectivev3
 xcuserdata/
+.DS_Store
+*/xcuserdatad/
+*/xcuserdata/*
+#*.xcworkspace/
+*xcuserdata/
+Pods/
+build/
+docs/
+*.orig
+*~HEAD
+
 
 ## Other
 *.moved-aside
